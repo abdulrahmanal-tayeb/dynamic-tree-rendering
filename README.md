@@ -4,6 +4,7 @@
 This is a React-Django application, so you should know how to run a Django server. You can run and render the sample graph directly from the React application.
 
 **NOTE:** You need to install the dependencies listed in the `requirements.txt` file for Django to work properly.
+**Also NOTE:** `node_modules` need to be already installed for this react project to work.
 
 Type: `pip install -r requirements.txt`
 
